@@ -1,0 +1,1 @@
+dropfirst 2 doublewords allcaps count o

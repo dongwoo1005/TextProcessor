@@ -1,0 +1,6 @@
+stdin doublewords
+hi how are you
+stdin Hello World! dropfirst 1
+stdin dropfirst 1 Hello World!
+stdin Hello dropfirst 1 World!
+stdin Hello dropfirst World! 1
